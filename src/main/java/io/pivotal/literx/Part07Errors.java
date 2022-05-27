@@ -57,7 +57,6 @@ public class Part07Errors {
 			}
 			return u;
 		});
-
 		return users;
 	}
 
